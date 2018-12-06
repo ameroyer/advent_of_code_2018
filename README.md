@@ -1,4 +1,4 @@
-# Advent of Code 2018  [![colab link](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/drive/1x0CnzAg524k2Mt-89BaTXP8rLS6KHUKm)
+# Advent of Code 2018  ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/ameroyer/advent_of_code_2018.svg)  [![colab link](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/drive/1x0CnzAg524k2Mt-89BaTXP8rLS6KHUKm)
 
 My Python solution to Advent of Code 2018. Each day is in a separate notebook for easy vizualisation, and the full code is also available in Colaboratory notebook. [More information about the challenge here](https://adventofcode.com/2018)
 
