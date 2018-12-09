@@ -15,7 +15,7 @@ People use them as a speed contest, interview prep, company training, university
   * [X] ☃️ [Day 6](https://github.com/ameroyer/advent_of_code_2018/blob/master/day6.ipynb)
   * [X] ❄️ [Day 7](https://github.com/ameroyer/advent_of_code_2018/blob/master/day7.ipynb)
   * [X] ✨ [Day 8](https://github.com/ameroyer/advent_of_code_2018/blob/master/day8.ipynb) 
-  * [ ] 💗 Day 9
+  * [X] 💗 Day 9
   * [ ] 🍬 Day 10
   * [ ] ⛄ Day 11
   * [ ] 🎆 Day 12
