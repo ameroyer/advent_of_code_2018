@@ -7,27 +7,27 @@ People use them as a speed contest, interview prep, company training, university
 
 ---
 
-  * [X] 🎅 [Day 1](https://github.com/ameroyer/advent_of_code_2018/blob/master/day01.ipynb)
-  * [X] 🎁 [Day 2](https://github.com/ameroyer/advent_of_code_2018/blob/master/day02.ipynb)
-  * [X] 🎄 [Day 3](https://github.com/ameroyer/advent_of_code_2018/blob/master/day03.ipynb)
-  * [X] 🌠 [Day 4](https://github.com/ameroyer/advent_of_code_2018/blob/master/day04.ipynb)
-  * [X] 🍰 [Day 5](https://github.com/ameroyer/advent_of_code_2018/blob/master/day05.ipynb)
-  * [X] ☃️ [Day 6](https://github.com/ameroyer/advent_of_code_2018/blob/master/day06.ipynb)
-  * [X] ❄️ [Day 7](https://github.com/ameroyer/advent_of_code_2018/blob/master/day07.ipynb)
-  * [X] ✨ [Day 8](https://github.com/ameroyer/advent_of_code_2018/blob/master/day08.ipynb) 
-  * [X] 💗 [Day 9](https://github.com/ameroyer/advent_of_code_2018/blob/master/day09.ipynb) 
-  * [X] 🍬 [Day 10](https://github.com/ameroyer/advent_of_code_2018/blob/master/day10.ipynb) 
-  * [X] ⛄ [Day 11](https://github.com/ameroyer/advent_of_code_2018/blob/master/day11.ipynb)
-  * [X] 🎆 [Day 12](https://github.com/ameroyer/advent_of_code_2018/blob/master/day12.ipynb)
-  * [X] 🍭 [Day 13](https://github.com/ameroyer/advent_of_code_2018/blob/master/day13.ipynb)
-  * [X] ☕ [Day 14](https://github.com/ameroyer/advent_of_code_2018/blob/master/day14.ipynb)
-  * [ ] 🌰 Day 15
-  * [X] 🎶 [Day 16](https://github.com/ameroyer/advent_of_code_2018/blob/master/day16.ipynb)
-  * [ ] 🏂 Day 17
-  * [ ] 🍠 Day 18
-  * [ ] 🍫 Day 19
-  * [ ] 👪 Day 20
-  * [ ] 🍪 Day 21
-  * [ ] 🎀 Day 22
-  * [ ] 💤 Day 23
-  * [ ] 🎉 Day 24
+  * [X][X] 🎅 [Day 1](https://github.com/ameroyer/advent_of_code_2018/blob/master/day01.ipynb)
+  * [X][X] 🎁 [Day 2](https://github.com/ameroyer/advent_of_code_2018/blob/master/day02.ipynb)
+  * [X][X] 🎄 [Day 3](https://github.com/ameroyer/advent_of_code_2018/blob/master/day03.ipynb)
+  * [X][X] 🌠 [Day 4](https://github.com/ameroyer/advent_of_code_2018/blob/master/day04.ipynb)
+  * [X][X] 🍰 [Day 5](https://github.com/ameroyer/advent_of_code_2018/blob/master/day05.ipynb)
+  * [X][X] ☃️ [Day 6](https://github.com/ameroyer/advent_of_code_2018/blob/master/day06.ipynb)
+  * [X][X] ❄️ [Day 7](https://github.com/ameroyer/advent_of_code_2018/blob/master/day07.ipynb)
+  * [X][X] ✨ [Day 8](https://github.com/ameroyer/advent_of_code_2018/blob/master/day08.ipynb) 
+  * [X][X] 💗 [Day 9](https://github.com/ameroyer/advent_of_code_2018/blob/master/day09.ipynb) 
+  * [X][X] 🍬 [Day 10](https://github.com/ameroyer/advent_of_code_2018/blob/master/day10.ipynb) 
+  * [X][X] ⛄ [Day 11](https://github.com/ameroyer/advent_of_code_2018/blob/master/day11.ipynb)
+  * [X][X] 🎆 [Day 12](https://github.com/ameroyer/advent_of_code_2018/blob/master/day12.ipynb)
+  * [X][X] 🍭 [Day 13](https://github.com/ameroyer/advent_of_code_2018/blob/master/day13.ipynb)
+  * [X][X] ☕ [Day 14](https://github.com/ameroyer/advent_of_code_2018/blob/master/day14.ipynb)
+  * [ ][ ] 🌰 Day 15
+  * [X][X] 🎶 [Day 16](https://github.com/ameroyer/advent_of_code_2018/blob/master/day16.ipynb)
+  * [ ][ ] 🏂 Day 17
+  * [X][X] [🍠 Day 18](https://github.com/ameroyer/advent_of_code_2018/blob/master/day18.ipynb)
+  * [X][X] [🍫 Day 19](https://github.com/ameroyer/advent_of_code_2018/blob/master/day19.ipynb)
+  * [ ][ ] 👪 Day 20
+  * [ ][ ] 🍪 Day 21
+  * [ ][ ] 🎀 Day 22
+  * [ ][ ] 💤 Day 23
+  * [ ][ ] 🎉 Day 24
