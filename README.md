@@ -5,11 +5,12 @@ My Python solution to Advent of Code 2018. Each day is in a separate notebook fo
 > **Advent of Code** is an Advent calendar of **small programming puzzles** for a variety of skill sets and skill levels that can be solved in any programming language you like. 
 People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other
 
----
-
-### Links to Solutions
 
 <table style='text-align:center'>
+ <tr>
+  <td colspan="4" align='center'><b>Links to Solutions</b></td>
+ </tr>
+ 
  <tr>
   <td>
    <ul>
