@@ -58,8 +58,9 @@ People use them as a speed contest, interview prep, company training, university
 </tr>
 </table>
 
+---
 
-### Some visualizations
+# Some Visualizations
 
 <table>
 <tr>
@@ -78,16 +79,16 @@ People use them as a speed contest, interview prep, company training, university
 
 <table>
 <tr>
-<td align="center"><b>[Day 20]</b></td>
 <td align="center"><b>[Day 22]</b></td>
+<td align="center"><b>[Day 20]</b></td>
 </tr>
 <tr>
-<td align="center">Mapped maze and distance heatmap</td>
 <td align="center">Map of the cave and shortest rescue path</td>
+<td align="center">Mapped maze and distance heatmap</td>
 </tr>
 <tr>
-<td><img width="400px" src="viz/day20.png"></td>
 <td><img width="350px" src="viz/day22.png"></td>
+<td><img width="400px" src="viz/day20.png"></td>
 </tr>
 </table>
 
